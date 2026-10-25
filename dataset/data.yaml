@@ -1,0 +1,7 @@
+path: /Users/rokiialaa/Downloads/CarsDetection
+train: /Users/rokiialaa/Downloads/CarsDetection/dataset/train/images
+val: /Users/rokiialaa/Downloads/CarsDetection/dataset/valid/images
+test: /Users/rokiialaa/Downloads/CarsDetection/dataset/test/images
+
+nc: 5
+names: ['Ambulance', 'Bus', 'Car', 'Motorcycle', 'Truck']

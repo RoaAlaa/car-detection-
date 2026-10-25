@@ -1,0 +1,7 @@
+path:  /Users/rokiialaa/Downloads/CarsDetection/dataset/sample15
+train: images  # dummy
+val: images    # dummy
+test: images   # <- this is the 15-image subset
+
+nc: 5
+names: ['Ambulance', 'Bus', 'Car', 'Motorcycle', 'Truck']
